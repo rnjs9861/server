@@ -1,0 +1,104 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "dc7d"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todos": [
+    {
+      "content": "수정했어요.",
+      "id": "2"
+    },
+    {
+      "id": "d797"
+    },
+    {
+      "id": "77fb",
+      "content": "React",
+      "completed": false
+    },
+    {
+      "id": "5b7f"
+    },
+    {
+      "id": "520b"
+    },
+    {
+      "id": 100,
+      "contents": "안녕하세요",
+      "completed": false
+    },
+    {
+      "id": 100,
+      "contents": "안녕하세요",
+      "completed": false
+    },
+    {
+      "id": 100,
+      "contents": "안녕하세요",
+      "completed": false
+    },
+    {
+      "id": 100,
+      "contents": "안녕하세요",
+      "completed": false
+    },
+    {
+      "id": 100,
+      "contents": "안녕하세요",
+      "completed": false
+    },
+    {
+      "id": 100,
+      "contents": "안녕하세요",
+      "completed": false
+    },
+    {
+      "id": 100,
+      "contents": "안녕하세요",
+      "completed": false
+    },
+    {
+      "id": 50,
+      "content": "새할일",
+      "completed": false
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Lee",
+      "role": "developer"
+    },
+    {
+      "id": "2",
+      "name": "Kim",
+      "role": "designer"
+    }
+  ]
+}
